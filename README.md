@@ -12,6 +12,7 @@ Or install via [Sketch Runner](https://sketchrunner.com/).
 1. In Sketch, go to `Plugins` > `Show Minimap`.
 1. Click and drag the minimap to easily scroll around the current page.
 1. Option+click in the minimap to select and zoom-to-fit a specific artboard.
+1. Cmd+drag on the map to draw a viewport of any size.
 1. Press the zoom amount indicator to temporarily zoom to 100%. Useful when you're editing details and want to jump out for a full view.
 1. Command+click the zoom amount indicator to zoom to 100%.
 
