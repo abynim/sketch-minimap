@@ -20,6 +20,8 @@ Or install via [Sketch Runner](https://sketchrunner.com/).
 
 Feedback or suggestions? Find me on Twitter: [@abynim](http://twitter.com/abynim)
 
+Made in collaboration with [Kevin Gutowski](https://twitter.com/kevgski) 😎
+
 Icon by [Matt](https://twitter.com/matthewskiles) 🙌🏼
 
 MIT License
